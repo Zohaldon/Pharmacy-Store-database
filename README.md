@@ -1,0 +1,3 @@
+# Pharmacy-Store-database
+Database for Online Pharmacy Drug store
+> See term_project.docx for more...
